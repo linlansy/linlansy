@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @linlansy
-- 👀 My major is Computer Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...jason20030428@163.com
+- 👋 Hi 你好
+- 正在努力让自己变得更好！请多多指教！
 
 <!---
 linlansy/linlansy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
